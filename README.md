@@ -1,13 +1,33 @@
-# React + Vite
+# Lista-de-tareas ✅
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Una aplicación simple de tareas construida con **React** que permite:
 
-Currently, two official plugins are available:
+- ✅ Ver una lista de tareas (fetch desde una API falsa)
+- ➕ Agregar nuevas tareas
+- ❌ Eliminar tareas
+- ✔️ Marcar tareas como completadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tecnologías utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# ListaDeTareas
+- [React](https://reactjs.org/)
+- [Axios](https://axios-http.com/)
+- [Tailwind CSS](https://tailwindcss.com/) para estilos
+
+---
+
+## 📸 Vista previa
+
+> Puedes agregar aquí una captura de pantalla del proyecto corriendo  
+> (usa `![Alt text](ruta-de-la-imagen)` si la subes)
+
+---
+
+## 🛠️ Instalación
+
+1. Clona el repositorio:
+
+```bash
+git clone https://github.com/tu-usuario/lista-de-tareas.git
+cd lista-de-tareas
