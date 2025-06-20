@@ -20,7 +20,7 @@ Una aplicación simple de tareas construida con **React** que permite:
 ## 📸 Vista previa
 
 > Puedes agregar aquí una captura de pantalla del proyecto corriendo  
-> (usa `![Alt text](ruta-de-la-imagen)` si la subes)
+> http://legendary-brioche-dcc493.netlify.app/
 
 ---
 
